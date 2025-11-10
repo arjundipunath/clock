@@ -62,7 +62,7 @@ The digital clock should immediately load and begin displaying the current time.
 
 ### ✍️ Author
 
-  * **Arjun Dipunath** - (You can add your GitHub profile link here)
+  * **Arjun Dipunath** - (@arjundipunath)
 
 -----
 
